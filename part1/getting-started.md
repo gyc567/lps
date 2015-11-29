@@ -1,6 +1,6 @@
 # Getting Started
 
-![](figures/oo-meets-functional.png)
+![](../figures/scala-logo.png)
 
 [TOC]
 
