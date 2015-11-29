@@ -1,5 +1,7 @@
 # Lean Programming in Scala
 
+![](figures/scala-logo.png)
+
 ## Part I: Overview
 
 - [Getting Started](part1/getting-started.md)
