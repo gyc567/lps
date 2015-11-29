@@ -3,42 +3,41 @@
 ## Part I: Overview
 
 - [Getting Started](getting-started.md)
-- [Scala.New](scala-new.md)
-- [Standard Types](standard-types.md)
-- [Control Structures](control-structures.md)
-- [Packages and Imports](packages-and-imports.md)
-- [Exceptions](exceptions.md)
-- [Pattern Matching](pattern-matching.md)
+- [Scala.New](part1/scala-new.md)
+- [Standard Types](part1/standard-types.md)
+- [Control Structures](part1/control-structures.md)
+- [Packages and Imports](part1/packages-and-imports.md)
+- [Exceptions](part1/exceptions.md)
+- [Pattern Matching](part1/pattern-matching.md)
+- [Unit Testing](part1/uniting-test.md)
 
 ## Part II: Object Oriented Programming
 
-- [Classes and Objects](classes-and-objects.md)
-- [Companion Object](companion-object.md)
-- [Inheritance](inheritance.md)
-- [Visibility](visibility.md)
-- [Traits](traits.md)
-- [Case Class](case-class.md)
-- [Equality](equality.md)
+- [Classes and Objects](part2/classes-and-objects.md)
+- [Companion Object](part2/companion-object.md)
+- [Inheritance](part2/inheritance.md)
+- [Visibility](part2/visibility.md)
+- [Traits](part2/traits.md)
+- [Case Class](part2/case-class.md)
+- [Equality](part2/equality.md)
 
 ## Part III: Functional Programming
 
-- [Functions and Closures](functions-and-closures.md)
-- [Currying](currying.md)
-- [Recursion](recursion.md)
-- [Partially Applied Functions](partially-applied-functions.md)
-- [Functional Data Structures](functional-data-structures.md)
-- [Algebraic Types](algebraic-types.md)
-- [Category Theory](category-theory.md)
-- [for Comprehensions](for-comprehensions.md)
+- [Functions and Closures](part3/functions-and-closures.md)
+- [Currying](part3/currying.md)
+- [Recursion](part3/recursion.md)
+- [Partially Applied Functions](part3/partially-applied-functions.md)
+- [Functional Data Structures](part3/functional-data-structures.md)
 
 ## Part IV: Implicts and Type System
 
-- [Implicits](implicits.md)
-- [Type Parameterization](type-parameterization.md)
-- [Type System](type-system.md)
+- [Implicits](part4/implicits.md)
+- [Type Parameterization](part4/type-parameterization.md)
+- [Type System](part4/type-system.md)
+- [for Comprehensions](part4/for-comprehensions.md)
 
-## Part VI: Scala Library
-- [Collections](collections.md)
-- [Actors](actors.md)
-- [Regex](regex.md)
-- [Unit Testing](uniting-test.md)
+## Part VI: Inside into Scala
+- [Collections](part5/collections.md)
+- [Actors](part5/actors.md)
+- [Algebraic Types](part5/algebraic-types.md)
+- [Category Theory](part5/category-theory.md)

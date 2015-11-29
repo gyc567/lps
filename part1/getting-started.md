@@ -1,4 +1,4 @@
-# Overview
+# Getting Started
 
 ![](figures/oo-meets-functional.png)
 
