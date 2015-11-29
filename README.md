@@ -2,7 +2,7 @@
 
 ## Part I: Overview
 
-- [Getting Started](getting-started.md)
+- [Getting Started](part1/getting-started.md)
 - [Scala.New](part1/scala-new.md)
 - [Standard Types](part1/standard-types.md)
 - [Control Structures](part1/control-structures.md)
